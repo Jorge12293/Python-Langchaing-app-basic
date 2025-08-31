@@ -1,2 +1,0 @@
-Title: LangChain- Develop AI Agents with LangChain & LangGraph
-Link: https://www.udemy.com/course/langchain/learn/lecture/52009171#overview
